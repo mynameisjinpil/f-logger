@@ -1,0 +1,11 @@
+{
+  "name": "f-logger",
+  "version": "1.0.0",
+  "description": "This is logger. You can collect log at storage(virtural), and load it as you set level(debug, info, warn, error, write) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pillillilli",
+  "license": "ISC"
+}
